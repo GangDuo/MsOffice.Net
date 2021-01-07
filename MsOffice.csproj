@@ -14,6 +14,7 @@
     <Authors>Onoda</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageOutputPath>bin\Package</PackageOutputPath>
+    <PackageVersion>1.0.1</PackageVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
